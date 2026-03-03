@@ -1,0 +1,9 @@
+user_id,name,phone,email,last_login,sessions_attended,bookings_made,profile_complete
+u001,Alex M.,+15125550101,alex@example.com,2024-01-02,0,0,false
+u002,Maria G.,+15125550102,maria@example.com,2024-01-10,1,1,true
+u003,Carlos R.,+15125550103,carlos@example.com,2023-12-15,5,3,true
+u004,Sarah K.,+15125550104,sarah@example.com,2024-01-18,2,0,false
+u005,James T.,+15125550105,james@example.com,2023-11-20,0,0,false
+u006,Priya S.,+15125550106,priya@example.com,2024-01-19,8,6,true
+u007,Omar A.,+15125550107,omar@example.com,2023-12-01,1,1,false
+u008,Laura B.,+15125550108,laura@example.com,2024-01-15,3,2,true
