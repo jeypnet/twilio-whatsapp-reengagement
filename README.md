@@ -2,7 +2,7 @@
 
 **Automated customer re-engagement using Twilio SMS and WhatsApp API**
 
-Built for [JoGo.Team](https://jogo.team) — a two-sided SaaS marketplace with 1,500+ users across four continents.
+Built for [JoGo.Team](https://jogo.team), a two-sided SaaS marketplace with users across four continents.
 
 ---
 
@@ -106,4 +106,4 @@ This wasn't a side project — it ran in production for a live SaaS platform. Th
 
 ---
 
-*Part of the [jeypnet](https://github.com/jeypnet) project portfolio — tools built while running JoGo.Team.*# twilio-whatsapp-reengagement
+*Part of the [jeypnet](https://github.com/jeypnet) project portfolio. Built in my customer success role at JoGo.Team.*
